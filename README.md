@@ -1,2 +1,2 @@
 # Flag Project
-I Created the flag of Laos using HTML and Internal CSS.
+This project recreates the flag of Laos using HTML and internal CSS.
